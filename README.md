@@ -46,12 +46,6 @@ KPIs will be calculated where reliable, comparable data is available.
 
 Data Collection → SQL Data Preparation → Data Analysis → Power BI Modeling → Dashboard Development → Validation & Reporting
 
-**Planned duration:** 8 weeks.
-
-## ⚠️ Data Integrity
-
-The project prioritizes reliable sources, validated calculations, and transparent limitations. National and regional statistics will not be presented as landmark-level data, and unsupported estimates will be avoided.
-
 ## 🚀 Expected Deliverables
 
 - SQL Server database and data-preparation queries
